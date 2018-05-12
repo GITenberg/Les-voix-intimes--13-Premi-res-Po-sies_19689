@@ -1,0 +1,35 @@
+_repo: Les-voix-intimes--13-Premi-res-Po-sies_19689
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Sulte, Benjamin
+    birthdate: 1841
+    deathdate: 1923
+    gutenberg_agent_id: '32599'
+    url: http://www.gutenberg.org/2009/agents/32599
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caouette, J. B. (Jean Baptiste)
+    alias: Caouette, Jean-Baptiste
+    birthdate: 1854
+    deathdate: 1922
+    gutenberg_agent_id: '5387'
+    url: http://www.gutenberg.org/2009/agents/5387
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2006-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19689'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French-Canadian poetry'
+- !lcc 'PQ'
+title: "Les voix intimes\r\nPremières Poésies"
+url: http://www.gutenberg.org/ebooks/19689
